@@ -21,10 +21,6 @@ DEVICE_PATH := device/motorola/liber
 # Display
 TARGET_SCREEN_DENSITY := 420
 
-# FM
-BOARD_HAVE_QCOM_FM := true
-BOARD_HAS_QCA_FM_SOC := "cherokee"
-
 # Hals
 TARGET_QCOM_AUDIO_VARIANT := caf-sm8150
 TARGET_QCOM_MEDIA_VARIANT := caf-sm8150
