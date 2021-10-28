@@ -372,3 +372,6 @@ vendor/lib64/sensors.rp.so
 vendor/lib64/sensors.ssc.so
 vendor/lib64/sensors.tof.so
 vendor/lib64/sensors.tof.vl53l1.so
+
+# Thermal
+vendor/etc/thermal-engine-liber.conf
