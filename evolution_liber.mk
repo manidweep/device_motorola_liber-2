@@ -25,6 +25,10 @@ $(call inherit-product, device/motorola/liber/device.mk)
 # Inherit some common EvolutionX stuff.
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
+# Official Tag
+EVO_BUILD_TYPE := OFFICIAL
+TARGET_BOOT_ANIMATION_RES := 1080
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := evolution_liber
 PRODUCT_DEVICE := liber
