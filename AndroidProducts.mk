@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_liber.mk
+    $(LOCAL_DIR)/evolution_liber.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_liber-eng \
-    lineage_liber-user \
-    lineage_liber-userdebug
+    evolution_liber-eng \
+    evolution_liber-user \
+    evolution_liber-userdebug
